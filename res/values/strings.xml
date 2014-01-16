@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp#1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">John von Neumann</string>
+    <string name="info">John von Neumann (Neumann János; 28 tháng 12, 1903 – 8 tháng 2, 1957) là một nhà toán học người Mỹ gốc Hungary và là một nhà bác học thông thạo nhiều lĩnh vực đã đóng góp vào vật lý lượng tử, giải tích hàm, lý thuyết tập hợp, kinh tế, khoa học máy tính, giải tích số, động lực học chất lưu, thống kê và nhiều lĩnh vực toán học khác. Là người trẻ nhất trong gia đình có ba anh em, von Neumann sinh ra với tên Neumann János Lajos (tên trong tiếng Hungary có họ đi trước tên) ở Budapest, Đế chế Áo-Hung (Osztrák-Magyar Monarchia), con của ông Neumann Miksa (Max Neumann), một luật sư làm việc trong một ngân hàng, và bà Kann Margit (Margaret Kann). Lớn lên trong một gia đình gốc Do Thái, János, thường gọi là "Jancsi", là một cậu bé thần đồng. Vào năm lên sáu tuổi, cậu bé có thể chia hai số với 8-chữ số nhẩm trong đầu vào nói chuyện với cha bằng tiếng Hy Lạp cổ. Vào lúc lên tám, cậu đã biết rất nhiều về một ngành toán gọi là giải tích; lúc mười hai tuổi cậu có thể được xem là ở mức trên đại học. Cậu ta có thể nhớ chỉ bằng cách lướt nhìn qua trang sách. Cậu vào trường Fasori Gimnázium (Lutheran Gymnasium) vào năm 1911. Có nguồn[1] cho rằng lúc 10 tuổi cậu bé mới đi học, và vào trường trung học luôn.
+
+Vào năm 1913, cha cậu mua một danh hiệu, và gia đình Neumann đạt được danh hiệu Margittai của quý tộc Hungary, tương đương với von của Áo. Neumann János do đó trở thành János von Neumann - và János được Anh hóa thành John sau khi ông, mẹ ông và các anh di cư sang Hoa Kỳ vào thập niên 1930. Lưu ý là, ông sử dụng họ von Neumann, trong khi các anh chuyển thành các họ khác như Vonneumann và Newman.
+
+Tại Đại học Budapest, von Neumann được các giáo sư bồi dưỡng về môn toán, đặc biệt là GS. Fekete, người đồng tác giả của bài báo khoa học đầu tiên của von Neumann khi ông mới 18 tuổi. Ông nhận bằng Ph.D. về toán học (với các ngành phụ trong vật lý thực nghiệm và hóa học) từ Đại học Budapest vào năm 23 tuổi. Cũng trong thời gian này, ông học kỹ thuật hóa chất tại ETH Zurich ở Thụy Sĩ. Trong những năm từ 1926 đến 1930 ông là một giảng viên tư (Privatdozent) ở Berlin, Đức.
+        </string>
+
+</resources>
